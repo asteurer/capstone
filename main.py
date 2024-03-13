@@ -10,7 +10,7 @@ import numpy as np
 from tensorflow import nn, expand_dims
 from tensorflow.keras import utils, models
 
-loaded_model = models.load_model('model')
+loaded_model = models.load_model('model.keras')
 
 def main():
     img_dir = input("Please input the path to the image that you wish to predict: ")
