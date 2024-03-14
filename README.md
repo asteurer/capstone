@@ -7,7 +7,7 @@
 * Installing Python
     * Visit this URL to download Python 3.11.8: https://www.python.org/ftp/python/3.11.8/python-3.11.8-amd64.exe
     * Go to your downloads file and open "python-3.11.8-amd64" (see figure 1).
-    * Once the window is open, at the very bottom, check the box that says "Add python.exe to PATH", then click "Install Now" (see figure 2) .
+    * Once the window is open, at the very bottom, check the box that says "Add python.exe to PATH", then click "Install Now" (see figure 2).
     * Once you see the window say "Setup was successful", close the window.
     * To check that Python was installed correctly, click the windows icon and search for and open "terminal" (see figure 3). 
     * Once the terminal window is open, type "python --version". The response should say "Python 3.11.8" (see figure 4).
