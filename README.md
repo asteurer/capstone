@@ -1,6 +1,6 @@
 # Overview
 
-### This project contains a 
+* This project contains a Machine Learning Model trained to recognize images of cats and dogs and a command line interface application that allows you to send images to the model and receive predictions.
 
 # Getting Started
 
@@ -38,11 +38,6 @@
     * Once you push enter, the application will tell you whether it thinks it's a cat or a dog and the % confidence it has for the prediction.
     * Repeat these steps as many times as you would like!
  
-
-
-
-
-
 # Figures
 
 * ## Figure 1
