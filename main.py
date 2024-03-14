@@ -14,6 +14,7 @@ loaded_model = models.load_model('model.keras')
 
 def main():
     img_dir = input("Please input the path to the image that you wish to predict: ")
+    img_dir = img_dir.replace('"', '')
 
     img = utils.load_img(img_dir, target_size=(180, 180))
 
